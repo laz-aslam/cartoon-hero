@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 30px;
+    color: teal;
+}
+h2{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+.big{
+    font-size: 60px;
+    color: rosybrown;
+}
+.low{
+    text-transform: lowercase;
+}
+.big.low{
+    color: aquamarine;
+}
+h1 span{
+    color: black;
+}
