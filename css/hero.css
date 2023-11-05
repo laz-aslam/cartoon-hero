@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 36px;
+}
+
+header{
+    background-color: bisque;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1, h2{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+header h1{
+    color: brown;
+    font-size: 80px;
+}
+
+header img{
+    border-radius: 150px;
+    width: 300px;
+    border: 20px solid #ffffff;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 30px;
+    color: maroon;
+    margin: 40px 0 20px;
+}
+
+a{
+    color: maroon;
+}
+a:hover{
+    color: black;
+}
+
+footer{
+    background-color: bisque;
+    text-align: center;
+}
+
+footer a:hover{
+    opacity: .6;
+    background-color: transparent;
+}
+
+p.caption{
+    color: gray;
+    font-style: italic;
+    margin-top: 0;
+}
